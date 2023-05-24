@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">programa02_2023A</string>
+    <string name="tvTitulo">Conversor de velocidad</string>
+    <string name="etValor"></string>
+    <string name="tvConvertirDe">Convertir De</string>
+    <string name="convertirDe"></string>
+    <string name="tvConvetirA">Convertir A</string>
+    <string name="convertirA"></string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="tvResultado">El resultado es</string>
+    <string name="etResultado"></string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
