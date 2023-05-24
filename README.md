@@ -8,8 +8,8 @@ Conversor de velocidades
 * nudos
 
 # Interfaz
-<img src="./Screenshot_20230523_211806.png" width="300px" text-alig="center">
-<img src="./Screenshot_20230523_211829.png" width="300px" text-alig="center">
+<img src="./Screenshot_20230523_211806.png" width="300px" text-align="center">
+<img src="./Screenshot_20230523_211829.png" width="300px" text-align="center">
 
 # Proposito del proyecto
 
