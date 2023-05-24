@@ -11,3 +11,6 @@ Conversor de velocidades
 <img src="./Screenshot_20230523_211806.png" width="300px">
 <img src="./Screenshot_20230523_211829.png" width="300px">
 
+# Proposito del proyecto
+
+Este proyecto es meramente de ejemplo fue realizado para la materia de Sistemas basados en conocimiento,   
